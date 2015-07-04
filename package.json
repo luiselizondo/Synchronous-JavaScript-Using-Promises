@@ -1,0 +1,14 @@
+{
+  "name": "syncjs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Elizondo",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
